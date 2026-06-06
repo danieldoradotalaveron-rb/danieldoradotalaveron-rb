@@ -123,19 +123,3 @@ Building in public — robotics overlays, driver forks, and CI you can actually 
 Applied AI for operations — agent workflows, RAG/GraphRAG, evaluation under sparse ground truth, MCP servers, and event-driven ingestion on Kubernetes.
 
 Tracing, custom metrics, chaos-style hardening, and CI/CD that keeps agents and models accountable in production. Previously: large-scale **GitOps**, service mesh extensions, Oracle/Java ops platforms, and LLM-assisted CI automation.
-
----
-
-## `~/contact`
-
-```text
-> agents · evals · k8s · robot arm edge cases
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-doradodaniel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doradodaniel/)
-[![Discord](https://img.shields.io/badge/Discord-danield0477-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/danield0477)
-[![ArtStation](https://img.shields.io/badge/ArtStation-3D_TA-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/artwork/bKyJlo)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danieldoradotalaveron-rb&color=00FF41&style=flat-square" alt="Profile views"/>
-</p>
