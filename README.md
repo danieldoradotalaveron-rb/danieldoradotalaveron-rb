@@ -40,20 +40,35 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-**AI · agents · ML**
+**Deep learning · computer vision · ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-022047?style=flat-square&logo=optuna&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+**AI · agents · LLM ops**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
@@ -94,13 +109,29 @@
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 
-**Robotics · OSS tooling**
+**Robotics · ROS 2 · reBot Arm stack**
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![RViz](https://img.shields.io/badge/RViz2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Pinocchio](https://img.shields.io/badge/Pinocchio-3776AB?style=flat-square&logo=python&logoColor=white)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logo=ros&logoColor=white)
+![Xacro](https://img.shields.io/badge/Xacro-22314E?style=flat-square&logo=ros&logoColor=white)
+![URDF](https://img.shields.io/badge/URDF-22314E?style=flat-square&logo=ros&logoColor=white)
+![TF2](https://img.shields.io/badge/TF2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![colcon](https://img.shields.io/badge/colcon-22314E?style=flat-square&logo=ros&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![ament](https://img.shields.io/badge/ament-22314E?style=flat-square&logo=ros&logoColor=white)
+![Robot State Publisher](https://img.shields.io/badge/robot__state__publisher-22314E?style=flat-square&logo=ros&logoColor=white)
+![diagnostic_msgs](https://img.shields.io/badge/diagnostic__msgs-22314E?style=flat-square&logo=ros&logoColor=white)
+![rqt](https://img.shields.io/badge/rqt__robot__monitor-22314E?style=flat-square&logo=ros&logoColor=white)
+![Intel RealSense](https://img.shields.io/badge/D405_eye--in--hand-0071C5?style=flat-square&logo=intel&logoColor=white)
+![FK/IK](https://img.shields.io/badge/FK%2FIK-22314E?style=flat-square&logo=ros&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=python&logoColor=white)
+
+**3D · automation**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ---
 
