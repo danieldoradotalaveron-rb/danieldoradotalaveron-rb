@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Daniel 👋</h1>
+<h1 align="center">Hey, I'm Dani 👋</h1>
 
 <p align="center">
   <strong>AI Engineer</strong> · agentic systems · LLM evaluation · platform & infra<br/>
@@ -30,7 +30,6 @@
 | [**reBotArmController_ROS2**](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2) | reBot Arm driver fork — safe park, bringup, integration tests | [![Integration](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml) |
 | [**rebotarm_monitor_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2) | Passive `/diagnostics` — read-only health overlay | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml) |
 | [**rebotarm_cartesian_gamepad_teleop_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2) | Gamepad → IK → RViz (**dry-run**, WIP) | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml) |
-| [**reBotArm_control_py**](https://github.com/dorado-ai-devops/reBotArm_control_py) | Python SDK — FK/IK & hardware API | — |
 
 ---
 
