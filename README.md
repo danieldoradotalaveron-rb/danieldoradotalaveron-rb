@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Robotics+%C2%B7+ROS+2+%C2%B7+Computer+Vision" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=ROS+2;Robotics;Computer+Vision;Deep+Learning;Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Kubernetes+%C2%B7+Platform+Engineering" alt="Typing intro"/>
 </p>
 
 ---
