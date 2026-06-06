@@ -131,6 +131,12 @@
 
 **3D · automation**
 
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds_Max-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF3366?style=flat-square&logo=adobe&logoColor=white)
+![Substance Designer](https://img.shields.io/badge/Substance_Designer-FF3366?style=flat-square&logo=adobe&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 
 ---
