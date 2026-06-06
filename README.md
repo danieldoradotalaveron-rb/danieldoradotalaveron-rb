@@ -1,45 +1,42 @@
-```text
-┌─ danieldoradotalaveron-rb ─────────────────────────────────────┐
-│  AI Engineer · agents · platform · robotics                      │
-└────────────────────────────────────────────────────────────────┘
-```
+<h1 align="center">Hey, I'm Daniel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=350&color=00FF41&center=true&vCenter=true&width=700&lines=open+source+%C2%B7+ROS+2+%C2%B7+reBot+Arm;agentic+systems+%C2%B7+RAG+%C2%B7+GraphRAG+%C2%B7+MCP;K8s+%C2%B7+eval+frameworks+%C2%B7+production+pipelines" alt="Typing intro"/>
+  <strong>AI Engineer</strong> · agentic systems · LLM evaluation · platform & infra<br/>
+  Also into <strong>robotics</strong>, computer vision, and ops tooling that ships.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/doradodaniel/">
-    <img src="https://img.shields.io/badge/LinkedIn-doradodaniel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/danield0477">
-    <img src="https://img.shields.io/badge/Discord-danield0477-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-danield0477-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.artstation.com/artwork/bKyJlo">
-    <img src="https://img.shields.io/badge/ArtStation-3D_TA-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"/>
+    <img src="https://img.shields.io/badge/ArtStation-3D_TA-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Robotics+%C2%B7+ROS+2+%C2%B7+Computer+Vision" alt="Typing intro"/>
 </p>
 
 ---
 
-## `~/opensource`
+## 🔭 Open source I'm building
 
-Building in public — robotics overlays, driver forks, and CI you can actually trust.
-
-| repo | focus | CI |
-|------|-------|-----|
-| [**reBotArmController_ROS2**](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2) | Driver fork · safe park · bringup · integration tests | [![Integration](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml/badge.svg?style=flat-square&label=integration)](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml) |
-| [**rebotarm_monitor_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2) | Passive `/diagnostics` · read-only health overlay | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml) |
-| [**rebotarm_cartesian_gamepad_teleop_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2) | Gamepad → IK → RViz · dry-run validation (WIP) | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml) |
-| [**reBotArm_control_py**](https://github.com/dorado-ai-devops/reBotArm_control_py) | Python SDK · FK/IK · hardware API | — |
+| Project | In short | CI |
+|---------|----------|-----|
+| [**reBotArmController_ROS2**](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2) | reBot Arm driver fork — safe park, bringup, integration tests | [![Integration](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml) |
+| [**rebotarm_monitor_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2) | Passive `/diagnostics` — read-only health overlay | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml) |
+| [**rebotarm_cartesian_gamepad_teleop_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2) | Gamepad → IK → RViz (**dry-run**, WIP) | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml) |
+| [**reBotArm_control_py**](https://github.com/dorado-ai-devops/reBotArm_control_py) | Python SDK — FK/IK & hardware API | — |
 
 ---
 
-## `~/stack`
+## Tech stack
 
-```text
-# languages
-```
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -49,9 +46,7 @@ Building in public — robotics overlays, driver forks, and CI you can actually 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-```text
-# AI · agents · ML
-```
+**AI · agents · ML**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -63,13 +58,11 @@ Building in public — robotics overlays, driver forks, and CI you can actually 
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=readthedocs&logoColor=00FF41)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-0d1117?style=flat-square&logo=neo4j&logoColor=00FF41)
-![MCP](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=protocol&logoColor=00FF41)
+![RAG](https://img.shields.io/badge/RAG-512BD4?style=flat-square&logo=readthedocs&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-018BFF?style=flat-square&logo=neo4j&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocol&logoColor=white)
 
-```text
-# cloud · platform · data
-```
+**Cloud · platform · data**
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -85,19 +78,15 @@ Building in public — robotics overlays, driver forks, and CI you can actually 
 ![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=flat-square&logo=tekton&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Redpanda](https://img.shields.io/badge/Redpanda-F05138?style=flat-square&logo=redpanda&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-0d1117?style=flat-square&logo=git&logoColor=00FF41)
+![GitOps](https://img.shields.io/badge/GitOps-FC6D26?style=flat-square&logo=git&logoColor=white)
 
-```text
-# backends · frameworks
-```
+**Backends · frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-```text
-# observability
-```
+**Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -106,20 +95,20 @@ Building in public — robotics overlays, driver forks, and CI you can actually 
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 
-```text
-# robotics · OSS tooling
-```
+**Robotics · OSS tooling**
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=flat-square&logo=ros&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Pinocchio](https://img.shields.io/badge/Pinocchio-0d1117?style=flat-square&logo=python&logoColor=00FF41)
+![Pinocchio](https://img.shields.io/badge/Pinocchio-3776AB?style=flat-square&logo=python&logoColor=white)
 ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat-square&logo=ros&logoColor=white)
-![colcon](https://img.shields.io/badge/colcon-0d1117?style=flat-square&logo=ros&logoColor=00FF41)
+![colcon](https://img.shields.io/badge/colcon-22314E?style=flat-square&logo=ros&logoColor=white)
 
 ---
 
-## `~/work`
+## What I work on
 
-Applied AI for operations — agent workflows, RAG/GraphRAG, evaluation under sparse ground truth, MCP servers, and event-driven ingestion on Kubernetes.
+Most of my day-to-day is **applied AI for operations**: agent workflows, RAG and GraphRAG pipelines, evaluation when ground truth is scarce, and wiring agents to real data through **MCP servers** and event-driven ingestion.
 
-Tracing, custom metrics, chaos-style hardening, and CI/CD that keeps agents and models accountable in production. Previously: large-scale **GitOps**, service mesh extensions, Oracle/Java ops platforms, and LLM-assisted CI automation.
+I like the full path from research-ish ideas to something deployable — tracing, metrics, chaos-style hardening on **Kubernetes**, and CI/CD that keeps models and agents honest.
+
+On the side I build **robotics** tooling (ROS 2, FK/IK, RViz) and still carry a soft spot for **3D / technical art** from earlier days.
