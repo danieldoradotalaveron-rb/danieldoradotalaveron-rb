@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=20&pause=1000&color=22314E&center=true&vCenter=true&width=640&lines=Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Robotics+%C2%B7+ROS+2+%C2%B7+Computer+Vision" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=20&pause=1000&color=22314E&center=true&vCenter=true&width=640&lines=Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Robotics+%C2%B7+ROS+2+%C2%B7+Computer+Vision" alt="Typing intro"/>
 </p>
 
 ---
