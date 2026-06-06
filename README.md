@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Engineer</strong> · agentic systems · LLM evaluation · platform & infra<br/>
-  Also into <strong>robotics</strong>, computer vision, and ops tooling that ships.
+  Also into <strong>robotics</strong>, computer vision, and ops tooling.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=ROS+2;Robotics;Computer+Vision;Deep+Learning;Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Kubernetes+%C2%B7+Platform+Engineering" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1200&pause=350&color=58A6FF&center=true&vCenter=true&width=640&lines=ROS+2;Robotics;Computer+Vision;Deep+Learning;Agentic+AI+%26+AIOps;RAG+%C2%B7+GraphRAG+%C2%B7+MCP;Kubernetes+%C2%B7+Platform+Engineering" alt="Typing intro"/>
 </p>
 
 ---
