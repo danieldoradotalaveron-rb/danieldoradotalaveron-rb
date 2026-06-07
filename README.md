@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>AI Engineer</strong> · agentic systems · LLM evaluation · platform & infra<br/>
-  Also into <strong>robotics</strong>, computer vision, 3D moderling and data, videogame engines and Nvidia Omniverse.
+  Also into <strong>robotics</strong>, computer vision, 3D data, Unreal Engine and Nvidia Omniverse.
 </p>
 
 <p align="center">
