@@ -161,8 +161,8 @@
 
 ## What I work on
 
-Most of my day-to-day is **applied AI for operations**: agent workflows, RAG and GraphRAG pipelines, evaluation when ground truth is scarce, and wiring agents to real data through **MCP servers** and event-driven ingestion.
+Most of my day-to-day is **applied AIOps**: agent workflows fo RCA, RAG and GraphRAG pipelines, evaluation, and wiring agents to real observability data through **MCP servers** and event-driven ingestion.
 
-I like the full path from research-ish ideas to something deployable — tracing, metrics, chaos-style hardening on **Kubernetes**, and CI/CD that keeps models and agents honest.
+I like the full path from research-ish ideas to something deployable.
 
-On the side I build **robotics** tooling (ROS 2, FK/IK, RViz) and still carry a soft spot for **3D / technical art** from earlier days.
+On the side I build **robotics** opensource tooling and still carry a soft spot for **3D / technical art** from earlier days.
