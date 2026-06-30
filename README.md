@@ -23,7 +23,7 @@
 
 ---
 
-## 🔭 Open source I'm building right now (2026)
+## 🔭 Open source I built in 2026
 
 | Project | In short | CI |
 |---------|----------|-----|
