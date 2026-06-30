@@ -12,7 +12,7 @@
   <a href="https://discord.com/users/danield0477">
     <img src="https://img.shields.io/badge/Discord-danield0477-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.artstation.com/artwork/bKyJlo">
+  <a href="[https://www.artstation.com/videogamescorpse](https://www.artstation.com/videogamescorpse)">
     <img src="https://img.shields.io/badge/ArtStation-3D_TA-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/>
   </a>
 </p>
