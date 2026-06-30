@@ -162,7 +162,7 @@
 
 ## What I work on
 
-Most of my day-to-day is **applied AIOps**: agent workflows fo RCA, RAG and GraphRAG pipelines, evaluation, and wiring agents to real observability data through **MCP servers** and event-driven ingestion.
+Most of my day-to-day is **applied R&D @ AIOps**: anomaly detection and RCA.
 
 I like the full path from research-ish ideas to something deployable.
 
