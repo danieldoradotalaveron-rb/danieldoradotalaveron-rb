@@ -27,9 +27,10 @@
 
 | Project | In short | CI |
 |---------|----------|-----|
+| [**YoloSegment-2D-to-3D-RebotARM_Pick_and_Place**](https://github.com/danieldoradotalaveron-rb/YoloSegment-2D-to-3D-RebotARM_Pick_and_Place) | RGB-D perception, 2D segmentation, 2D-to-3D lifting and ROS 2 / MoveIt tabletop pick-and-place | — |
 | [**reBotArmController_ROS2**](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2) | reBot Arm driver fork — safe park, bringup, integration tests | [![Integration](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/reBotArmController_ROS2/actions/workflows/integration.yml) |
 | [**rebotarm_monitor_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2) | Passive `/diagnostics` — read-only health overlay | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_monitor_ros2/actions/workflows/ci.yml) |
-| [**rebotarm_cartesian_gamepad_teleop_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2) | Gamepad → IK → RViz (**dry-run**, WIP) | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml) |
+| [**rebotarm_cartesian_gamepad_teleop_ros2**](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2) | Gamepad → IK → RViz | [![CI](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml/badge.svg)](https://github.com/danieldoradotalaveron-rb/rebotarm_cartesian_gamepad_teleop_ros2/actions/workflows/ci.yml) |
 
 ---
 
